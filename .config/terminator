@@ -1,0 +1,12 @@
+[profiles]
+  [[default]]
+    background_color = "#282a36"
+    cursor_blink = False
+    cursor_shape = ibeam
+    font = Source Code Pro 12
+    foreground_color = "#f8f8f2"
+    show_titlebar = False
+    scrollback_infinite = True
+    palette = "#000000:#ff5555:#50fa7b:#f1fa8c:#bd93f9:#ff79c6:#8be9fd:#f8f8f2:#282a36:#ffb86c:#6272a4:#8be9fd:#ff79c6:#f8f8f2:#f1fa8c:#ffffff"
+    use_system_font = False
+    copy_on_selection = True
